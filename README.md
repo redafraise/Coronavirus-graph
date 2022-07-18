@@ -9,6 +9,6 @@ this python script allow you to graph the evolution of the number of people infe
 - <a href="https://www.coronavirus-statistiques.com/">Coronavirus data</a> 🚩
 
 ## Exemple of graphs  🌧
-<img src="https://zupimages.net/viewer.php?id=22/29/4h64.png"></img>
+<img src="https://zupimages.net/up/22/29/al8r.png"></img>
 
 <img src="https://zupimages.net/viewer.php?id=22/29/al8r.png"></img>
